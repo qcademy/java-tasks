@@ -1,5 +1,11 @@
 # Primitive Datentypen
 
+[Java: Primitive Datentypen](https://www.youtube.com/watch?v=kfDiTjzEHro)
+
+Empfohlene Ressource:
+- https://www.w3schools.com/java/java_variables.asp
+- https://www.w3schools.com/java/java_data_types.asp
+
 ## Aufgabe-1
 Beschreiben Sie in Ihren eigenen Worten die folgenden Datentypen:
 - boolean
