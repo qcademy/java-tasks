@@ -1,6 +1,6 @@
 # Primitive Datentypen
 
-[Java: Primitive Datentypen](https://www.youtube.com/watch?v=kfDiTjzEHro)
+Video: [Java: Primitive Datentypen](https://www.youtube.com/watch?v=kfDiTjzEHro)
 
 Empfohlene Ressource:
 - https://www.w3schools.com/java/java_variables.asp
