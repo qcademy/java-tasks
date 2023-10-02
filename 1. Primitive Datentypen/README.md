@@ -6,7 +6,7 @@ Empfohlene Ressource:
 - https://www.w3schools.com/java/java_variables.asp
 - https://www.w3schools.com/java/java_data_types.asp
 
-## Aufgabe-1
+## Aufgabe 1
 Beschreiben Sie in Ihren eigenen Worten die folgenden Datentypen:
 - boolean
 - float
@@ -21,7 +21,7 @@ Beschreiben Sie in Ihren eigenen Worten die folgenden Datentypen:
 Soweit möglich definieren für jeden dieser Datentypen den Definitionsbereich der
 möglichen Werte.
 
-## Aufgabe-2
+## Aufgabe 2
 Definieren Sie in Ihren eigenen Worten die folgenden Begriffe:
 - Statische Typisierung
 - Java Package
@@ -30,10 +30,10 @@ Definieren Sie in Ihren eigenen Worten die folgenden Begriffe:
 - Initialisierung einer Variable
 - Immutable/finale Variablen
 
-## Aufgabe-3
+## Aufgabe 3
 Definieren Sie in Ihren eigenen Worten, was man in der Programmierung unter
 **Zuweisung** versteht. Ergänzen Sie die Hauptmethode des folgenden Stück Codes,
-indem Sie für jeden der in [Aufgabe-1](#Aufgabe-1) aufgelisteten primitiven Datentypen eine
+indem Sie für jeden der in [Aufgabe 1](#Aufgabe%201) aufgelisteten primitiven Datentypen eine
 Beispiel Zuweisung (als unveränderliche Variable) machen:
 ```java
 public class HelloWord {

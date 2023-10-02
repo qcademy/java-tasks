@@ -2,7 +2,7 @@
 
 Video: [Java: Kontrollstrukturen(if else, switch)](https://www.youtube.com/watch?v=GYdn6E69fWs)
 
-## Aufgabe-1
+## Aufgabe 1
 Gegeben seien folgende Code Zeilen:
 ```java
 if (a > 2 == true) { 
@@ -20,7 +20,7 @@ if (a > 2) {
 Erklären Sie warum beide Zeilen gleich sind(im Sinne der Auswertung). Welche
 Variante bevorzugen Sie und warum ?
 
-## Aufgabe-2
+## Aufgabe 2
 **A)** Gegeben sei folgendes Snippet(Stück Code):
 ```java
 ...
@@ -80,7 +80,7 @@ switch(a) {
 ...
 ```
 
-## Aufgabe-3
+## Aufgabe 3
 Gegeben sei folgendes Snippet ergänzen die statische Methode **summe**, so dass
 diese die Summe aller **natürlichen Zahlen** von 1 bis n berechnet. Die Funktion
 **summe** soll anhand einer Rekursion implementiert werden.
@@ -99,13 +99,13 @@ public class HelloWorld {
 }
 ```
 
-## Aufgabe-4
+## Aufgabe 4
 Recherchieren Sie über die Definition der mathematischen Funktion Namens
 **Fakultät** und Schreiben eine statische und rekursive Methode Namens **fakultaet**,
 die die Fakultät einer als Parameter übergebenen natürlichen Zahl berechnet.
 Überprüfen Sie die Richtigkeit Ihrer Implementierung.
 
-## Aufgabe-5
+## Aufgabe 5
 Recherchieren Sie über die Definition von **Fibonacci Zahlen** und implementieren
 Sie eine statische und rekursive Methode Namens **fibonacci**, die die Fibonacci Zahl
 einer als Parameter übergebenen natürlichen Zahl berechnet.

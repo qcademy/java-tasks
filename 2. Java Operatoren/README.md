@@ -4,7 +4,7 @@ Videos:
 - [Java: Definition of Java operators](https://youtu.be/h8_BDE6hns8)
 - [Java: Practical examples](https://youtu.be/I8d_CZW5IS8)
 
-## Aufgabe-1
+## Aufgabe 1
 Definieren Sie in Ihren eigenen Worten die folgenden Java Operator Typen:
 - Arithmetische Operatoren
 - Logische Operatoren
@@ -14,7 +14,7 @@ Definieren Sie in Ihren eigenen Worten die folgenden Java Operator Typen:
 
 Für jeden dieser Typen geben Sie mind. einen Operator an.
 
-## Aufgabe-2
+## Aufgabe 2
 **A)** Gegeben seien folgende Code Zeilen. Lassen sich beide Zeilen kompilieren?
 Begründen Sie Ihre Antwort.
 1) `int a = 93/2;`
