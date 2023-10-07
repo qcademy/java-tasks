@@ -43,7 +43,7 @@ public class HelloWord {
 }
 ```
 
-##Aufgabe-4
+## Aufgabe-4
 Gegeben sei folgendes Stück Code. Beschreiben Sie warum dieser Code sich nicht
 kompilieren lässt.
 ```java
