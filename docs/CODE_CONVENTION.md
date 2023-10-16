@@ -31,6 +31,7 @@ The `else, catch` and the `while` keyword in `do…while` loops go on the same l
 **&check; Dos:** 
 ```java
 public class Example {
+    
     void method() {
     ...
     }
@@ -54,6 +55,7 @@ for (int[] row : matrix) {
 
 ```java
 public class Example {
+    
     // Wrong placement of opening brace
     void method() 
     {
@@ -107,6 +109,7 @@ In variable declarations it is not recommended to align types and variables.
 **&check; Dos:**
 ```java
 public class Example {
+    
     int someInt;
     String myString;
     char aChar;
@@ -124,6 +127,7 @@ IntUnaryOperator inc = x -> x + 1;
 **&cross; Don'ts:**
 ```java
 public class Example {
+    
     int    someInt;
     String myString;
     char   aChar;
@@ -236,6 +240,7 @@ Names should be in mixed case. The names should represent what the value of the 
 **&check; Dos:**
 ```java
 public class Example {
+    
     String firstName;
     int orderNumber;
 }
@@ -243,6 +248,7 @@ public class Example {
 **&cross; Don'ts:**
 ```java
 public class Example {
+    
     String first_name;
     int OrderNumber;
 }
