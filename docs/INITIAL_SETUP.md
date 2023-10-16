@@ -53,7 +53,7 @@ Ihre Java-Hausaufgaben effizienter zu erledigen.
    ```shell
    git commit -m "Prepare a java homework directory"
    ```
-11. Push alle Änderungen:
+6. Push alle Änderungen:
    ```shell
    git push origin main
    ```

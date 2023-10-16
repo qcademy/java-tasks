@@ -20,8 +20,8 @@ Bitte installieren Sie die folgenden Tools:
 ## Anforderungen
 Alle Java-Hausaufgaben sollten als separater Pull-Request in Ihrem Github-Repository erledigt werden. Damit es funktioniert, 
 lesen Sie bitte die folgenden Anweisungen sorgfältig durch und richten Sie sie ein:
-1. Git und Intellij IDEA [Umgebungsvorbereitung](docs/INITIAL_SETUP.md);
-2. [Pull-Request-Anweisung](docs/PR_GUIDE.md);
+1. Git und Intellij IDEA [Umgebungsvorbereitung](./docs/INITIAL_SETUP.md);
+2. [Pull-Request-Anweisung](./docs/PR_GUIDE.md);
 
 > [!IMPORTANT]
-> Ihr gesamter Code sollte gemäß dem [Java Code Conventions-Dokument](docs/CODE_CONVENTION.md) geschrieben sein.
+> Ihr gesamter Code sollte gemäß dem [Java Code Conventions-Dokument](./docs/CODE_CONVENTION.md) geschrieben sein.

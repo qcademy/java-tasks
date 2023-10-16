@@ -30,8 +30,10 @@ The `else, catch` and the `while` keyword in `do…while` loops go on the same l
 
 **&check; Dos:** 
 ```java
-void method() {
+public class Example {
+    void method() {
     ...
+    }
 }
 ```
 ```java
@@ -51,10 +53,12 @@ for (int[] row : matrix) {
 **&cross; Don'ts:**
 
 ```java
-// Wrong placement of opening brace
-void method()
-{
+public class Example {
+    // Wrong placement of opening brace
+    void method() 
+    {
     ...
+    }
 }
 ```
 ```java
@@ -102,10 +106,12 @@ In variable declarations it is not recommended to align types and variables.
 
 **&check; Dos:**
 ```java
-int someInt;
-String myString;
-char aChar;
-long sixtyfourFlags;
+public class Example {
+    int someInt;
+    String myString;
+    char aChar;
+    long sixtyfourFlags;
+}
 ```
 ```java
 if (isFlagSet(GO)) {
@@ -117,10 +123,12 @@ IntUnaryOperator inc = x -> x + 1;
 ```
 **&cross; Don'ts:**
 ```java
-int    someInt;
-String myString;
-char   aChar;
-long   sixtyfourFlags;
+public class Example {
+    int    someInt;
+    String myString;
+    char   aChar;
+    long   sixtyfourFlags;
+}
 ```
 ```java
 if( isFlagSet( GO ) ) {
@@ -227,13 +235,17 @@ Names should be in mixed case. The names should represent what the value of the 
 
 **&check; Dos:**
 ```java
-String firstName;
-int orderNumber;
+public class Example {
+    String firstName;
+    int orderNumber;
+}
 ```
 **&cross; Don'ts:**
 ```java
-String first_name;
-int OrderNumber;
+public class Example {
+    String first_name;
+    int OrderNumber;
+}
 ```
 Only use very short names when the variables are short-lived, such as in for loops:
 ```java
