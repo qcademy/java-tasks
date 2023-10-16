@@ -22,7 +22,7 @@ Ihre Java-Hausaufgaben effizienter zu erledigen.
 5. Stellen Sie sicher, dass sich auf Ihrem Computer der Ordner `Qcademy-Java` befindet;
    Jetzt haben wir einen Ordner, in dem wir alle unsere Java-Hausaufgaben aufbewahren können. Jetzt müssen wir ein Projekt in Intellij IDEA erstellen.
 
-## Erstes Projekt in Intellij IDEA
+## Projekt in Intellij IDEA Erstellung
 1. Öffnen Sie **Intellij IDEA** und erstellen Sie ein neues Maven-Projekt:
    <details>
       <summary>See picture for details</summary>
