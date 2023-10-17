@@ -17,8 +17,7 @@ In diesem Paket können Sie eine neue Klasse erstellen (es kann `Main.java` sein
     </details>
 3. Es wäre sehr schön, wenn Sie oberhalb Ihres Codes eine Aufgabenbeschreibung als Kommentar einfügen würden;
 4. Wenn Ihre Aufgabe fertig ist und Sie sie dem Coach zeigen möchten, müssen Sie alle Änderungen in das Remote-Repository 
-übertragen (vergessen Sie nicht, Ihren Code zu formatieren und zu überprüfen, ob er der [code convention](CODE_CONVENTION.md) 
-entspricht).
+übertragen (vergessen Sie nicht, Ihren Code zu formatieren und zu überprüfen, ob er der [Java Code Conventions-Dokument](CODE_CONVENTION.md) entspricht).
 Bitte führen Sie die folgenden Befehle aus:
 ```shell
 git add . 
