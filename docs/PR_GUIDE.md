@@ -37,9 +37,16 @@ git push origin java-operators
     </details>
 7. Wenn Sie keinen Trainer als Rezensent hinzufügen können, müssen Sie ihn/sie als Mitarbeiter einladen. 
 Bitte lesen Sie die [Anleitung](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository).
-   Stellen Sie sicher, dass der Coach Ihre Einladung annimmt, dann können Sie ihn/sie zur Überprüfung zuweisen;
+Stellen Sie sicher, dass der Coach Ihre Einladung annimmt, dann können Sie ihn/sie zur Überprüfung zuweisen;
 8. Bitte fügen Sie einen Link zur PR zu den entsprechenden US in Trello hinzu;
-9. Der Coach überprüft die Aufgabe und hinterlässt Kommentare. Sie sollten alle Anmerkungen korrigieren;
+9. Der Coach überprüft die Aufgabe und hinterlässt Kommentare. Sie sollten alle Anmerkungen korrigieren 
+und in das Remote-Repository übertragen, damit Coach es erneut überprüfen kann. Wenn Sie den Code lokal korrigiert haben, 
+führen Sie bitte die folgenden Befehle aus:
+```shell
+git add .
+git commit -m "Fix code review issues"
+git push origin java-operators
+```
 10. Wenn die Codeüberprüfung erfolgreich war, wird sie vom Trainer genehmigt. Nach der Genehmigung können 
 Sie den Code mit Ihrem `main` Branch zusammenführen, indem Sie auf die Schaltfläche `Merge pull request` klicken:
     <details>
