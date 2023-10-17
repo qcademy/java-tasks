@@ -3,7 +3,7 @@
 Die Implementierung jeder Home-Aufgabe sollte als separate Pull-Anfrage (PR) bereitgestellt werden. 
 Nachfolgend finden Sie eine detaillierte Anleitung zum Erstellen von PR, die Sie Ihrem Trainer mitteilen können.
 
-Nachdem Sie alle Schritte der Anleitung [Umgebungsvorbereitung](docs/INITIAL_SETUP.md) abgeschlossen haben, können wir beginnen
+Nachdem Sie alle Schritte der Anleitung [Umgebungsvorbereitung](INITIAL_SETUP.md) abgeschlossen haben, können wir beginnen
 Umsetzung unserer Hausaufgaben. So lass uns anfangen:
 1. Erstellen Sie einen neuen Git-Branch. Der Name sollte den Namen der Aufgabe widerspiegeln, z. B.:
 ```shell
