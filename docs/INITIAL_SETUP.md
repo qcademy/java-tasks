@@ -5,13 +5,13 @@ Ihre Java-Hausaufgaben effizienter zu erledigen.
 ## Github-Vorbereitung
 1. Erstellen Sie ein neues Repository in [GitHub](https://github.com/), nennen wir es `Qcademy-Java`;
    <details>
-      <summary><i>See picture for details</i></summary>
+      <summary><i>Weitere Informationen finden Sie im Bild</i></summary>
       <img src="images/createRepo.jpeg" alt="Create a new repository">
    </details>
 
 2. Kopieren Sie eine Git-Repository-URL, siehe Bild:
    <details>
-      <summary>See picture for details</summary>
+      <summary>Weitere Informationen finden Sie im Bild</summary>
       <img src="images/cloneRepo.jpeg" alt="Clone repository">
    </details>
 3. Öffnen Sie ein Command line tool auf dem lokalen Computer;
@@ -25,7 +25,7 @@ Ihre Java-Hausaufgaben effizienter zu erledigen.
 ## Projekt in Intellij IDEA Erstellung
 1. Öffnen Sie **Intellij IDEA** und erstellen Sie ein neues Maven-Projekt:
    <details>
-      <summary>See picture for details</summary>
+      <summary>Weitere Informationen finden Sie im Bild</summary>
       <img src="images/createProject.jpeg" alt="New project">
    </details>
 2. Stellen Sie sicher, dass Ihr `.gitignore` den folgenden Inhalt hat:
@@ -46,7 +46,7 @@ Ihre Java-Hausaufgaben effizienter zu erledigen.
    ```
    Stellen Sie sicher, dass Sie keine Dateien von `.gitignore` übertragen.
    <details>
-      <summary>See picture for details</summary>
+      <summary>Weitere Informationen finden Sie im Bild</summary>
       <img src="images/gitStatus.jpeg" alt="Git status">
    </details>
 5. Commit alle Änderungen:
