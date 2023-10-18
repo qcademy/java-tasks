@@ -22,6 +22,7 @@ Alle Java-Hausaufgaben sollten als separater Pull-Request in Ihrem Github-Reposi
 lesen Sie bitte die folgenden Anweisungen sorgfältig durch und richten Sie sie ein:
 1. Git und Intellij IDEA [Umgebungsvorbereitung](docs/INITIAL_SETUP.md);
 2. [Pull-Request-Anweisung](docs/PR_GUIDE.md);
+3. Lesen und befolgen Sie das [Java Code Conventions-Dokument](docs/CODE_CONVENTION.md);
 
 > [!IMPORTANT]
-> Ihr gesamter Code sollte gemäß dem [Java Code Conventions-Dokument](docs/CODE_CONVENTION.md) geschrieben sein.
+> Ihr gesamter Code sollte gemäß dem `Java Code Conventions-Dokument` geschrieben sein.
